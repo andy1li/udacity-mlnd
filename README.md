@@ -1,2 +1,1 @@
-# udacity-mlnd
-My Projects for the Udacity Machine Learning Nanodegree
+# My Projects for the Udacity Machine Learning Nanodegree
